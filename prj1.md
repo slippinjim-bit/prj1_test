@@ -22,70 +22,70 @@ Description of steps
 
 ### Q1
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q2
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q3
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q4
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q5
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q6
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q7
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q8
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q9
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
 
 ### Q10
 #### Query
-'''SQL
+```SQL
 SELECT ...
-'''
+```
 #### Explaination
