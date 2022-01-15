@@ -1,0 +1,5 @@
+Please put your query results in this folder
+Each query result should be a .csv file labeled query#.csv
+ex:
+q1.csv
+q2.csv
